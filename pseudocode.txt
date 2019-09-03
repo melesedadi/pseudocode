@@ -1,0 +1,35 @@
+
+// Find the average
+Declare int exam_score
+Declare int sum_score
+Declare int average
+
+prompt user for 10 xam_score
+add 10 exam_score as sum_score
+divid sum_score by 10 as average
+disply result
+
+
+// How much water runs off the roof
+
+Declare int roof_foot_print
+Declare int roof_foot_print_in_inch
+Declare int rainfall_in_inch
+Declare int rainfall_in_gallon
+
+
+prompt for roof dimessions in foot
+user dimessions input = 50'X20'
+covvert root dimessions in foot in to inch as (50X12)" x (20x12)" = 600"x240"
+promot user for the number of inches of rainfall
+user input for number of inches of rainfall = 1"
+Multiply  number of inches of rainfall by the roof dimessions in inch as 600"x240"x1" = 144,000"
+calculate the number rainfall in gallon by 231
+display result
+result = 623.38 
+
+
+
+
+
+
